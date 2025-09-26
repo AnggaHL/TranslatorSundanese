@@ -1,8 +1,31 @@
 # 👥 Contributors
 
-**Hilman Maulana** — UIN Sunan Gunung Djati Bandung (UIN Bandung)
+## Hilman Maulana
+**UIN Sunan Gunung Djati Bandung (UIN Bandung)**  
+_Inisiator & Kontributor Utama — Project Lead_
 
-> Inisiator & kontributor utama aplikasi **Sunda Translator**.
+> Penggagas arsitektur aplikasi **Translator Sundanese**, fokus pada kualitas UX, stabilitas jaringan (Retrofit + Coroutines), dan tata letak Material yang rapih serta mudah di-maintain.
+
+**Peran & Kontribusi Utama**
+- 🧭 **Project direction**: Menentukan scope, roadmap, dan standar coding (naming, struktur paket, dan konvensi commit).
+- 🎨 **UI/UX**: Mendesain layout berbasis ConstraintLayout + CardView, aksesibilitas, serta komponen Material (copy/share/retry, counter, jam real-time).
+- 🔌 **Integrasi API**: Menyusun `TranslateApi`, `provideApi()`, dan penanganan error/timeout + indikator loading.
+- ⚙️ **Build & Tooling**: Menyiapkan Gradle config (Retrofit 2.11, Gson, OkHttp), vector drawables, serta compatibility minSdk/targetSdk.
+- 🧪 **Quality**: Pengujian manual (happy/edge cases), resource linking fix, dan perapihan XML/tema (AppCompat/Material3).
+
+**Highlight**
+- Mengubah ribuan karakter kode menjadi pengalaman terjemahan **Indonesia ↔ Sunda** yang cepat, ringan, dan enak dipakai.
+- Mendorong praktik **lifecycle-aware** (repeatOnLifecycle) untuk fitur jam real-time yang efisien dan bebas memory leak.
+
+**Kontak & Jejak**
+- GitHub: [@hilmanmaulana1237](https://github.com/hilmanmaulana1237)
+- Kampus: UIN Sunan Gunung Djati Bandung — Teknik Informatika
+- Minat: Android/Kotlin, UI/UX, arsitektur client–API, dan open-source kolaboratif
+
+---
+
+> Ingin ikut berkontribusi? Buka **Issues** atau **Pull Request**, dan ikuti _contribution guidelines_ di repo. Kontributor baru selalu disambut! 🚀
+
 
 ---
 
